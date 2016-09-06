@@ -17,7 +17,7 @@ import dev.rpggame.display.Display;
 public class Launcher {
     public static void main(String[] args){
        Display d = new Display("ClockMasters!", 300, 300);
-       System.out.println("Douglas");
-       System.out.println("Oiii");
+       System.out.println("Yoo Nakama");
+       System.out.println("Daijobu?");
     }
 }
